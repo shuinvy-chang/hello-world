@@ -1,2 +1,3 @@
 # hello-world
-Test reoisutory
+
+It's a test repository from GIT tutorial.
